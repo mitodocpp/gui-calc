@@ -14,8 +14,9 @@ gui version preview
 
 
 
+![image](https://user-images.githubusercontent.com/88006978/208997205-b6ef992e-b6e7-4787-9555-1280119b2c06.png)
 
-![image](https://user-images.githubusercontent.com/88006978/208996854-dc6ec899-d191-4b8f-a1fe-7b98952cef99.png)
+
 
 
 
